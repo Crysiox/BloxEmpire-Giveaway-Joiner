@@ -1,2 +1,8 @@
 # BloxEmpire-Giveaway-Joiner
-Automatically joins the hourly giveaway
+
+# Installation
+`pip install requests`
+
+Put your token in `config.json`
+
+Run the script with `python app.py`
